@@ -7,24 +7,24 @@ Hippocampus of Anesthetized Rats" by Jazmín S. Sánchez, David Pérez-González
 
 
 ## 1) DotRasterMultichannel.m & DotRasterMultichannelPeriodic.m
-Generates dotraster plots of a specified unit from the multichannel data shown in figure 3.
+Generates dotraster plots of a specified unit from the multichannel data shown in figure 2.
 
 ## 2) CA1vsDG_DEV_STD_comparison.mlx
-A live script to create all the gran average graphs shown in Figure 4
+A live script to create all the gran average graphs shown in Figure 3
 
 Carefull!! Anyone using it must be carefull since it is necessary to comment out lines or sections depending on what you want to plot. Improvements to avoid errors for new users are needed. 
 
 ## 3) GranAverage_graph_HIP_R_P.mlx & Bar_graph_HIP_R_P.m
-Used to create figure 5
+Used to create figure 4
 
 ## 5) Index_CA1_DG_median.mlx
-Used to generate all graphs and stats for figure 6
+Used to generate all graphs and stats for figure 5
 
 ## 6) LFP_Plotting.m
-Creates all the graphs and stats used for figures 7 - 10.
+Creates all the graphs and stats used for figures 6.
 
 ## 7) SpikesPerTrialMultiChannel.mlx
-Creates all the figures and stats for figure 11
+Creates all the figures and stats for figure 7
 
 ## 8) SpikesPerTrialMultiChannel.mlx
-Creates the HP graphs for figure 12 A
+Creates the HP graphs for figure 8 A
